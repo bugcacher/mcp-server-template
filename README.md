@@ -1,6 +1,9 @@
 # 🚀 mcp-server-template
 
-A lightweight template to kickstart your MCP server project.
+This repository serves as a **template** for building MCP server projects in Python. You can use this repository as a starting point for your own server implementations by clicking "Use this template" on GitHub.
+
+**Repository Reference:**  
+[bugcacher/mcp-server-template](https://github.com/bugcacher/mcp-server-template)
 
 ---
 
